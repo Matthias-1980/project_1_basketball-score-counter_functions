@@ -25,7 +25,7 @@ body {
 }
 
 .container-counter {
-     margin: 0px;     
+     margin: 0;     
 }
 
 .counter {
@@ -38,7 +38,7 @@ body {
     
     text-align: center;
     line-height: 130px;
-    margin: 25px 0px;
+    margin: 25px 0;
     
     border-radius: 9px;
 }
@@ -57,5 +57,5 @@ body {
 .container-home > h3, .container-guest > h3 {
     font-size: 40px;
     color: white;
-    margin: 0px;    
+    margin: 0;    
 }
